@@ -23,7 +23,7 @@ To run the project locally:
 - Adjust the password length using the input field.
 - Select which character types to include.
 - Click **Generate Password** to create a new password.
-- Click **Copy** to copy the password to your clipboard.
+- Click **Copy icon** to copy the password to your clipboard.
 
 ## Technologies Used
 
