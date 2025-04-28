@@ -10,6 +10,9 @@ A simple and customizable password generator built with JavaScript, HTML, and CS
 - Copy password to clipboard with one click
 - Clean and responsive user interface
 
+## Preview
+![Password Generator Screenshot](/images/overview.jpg)
+
 ## Getting Started
 
 To run the project locally:
